@@ -3,10 +3,6 @@
     <summary><h1 style="display: inline-block">Hello there! 👋, I'm Juan</h1></summary>
   </ul>
 </div>
-<div align="center">
-<img src="https://github.com/EscamillaJuan/EscamillaJuan/blob/main/snake.svg" alt="Snake Game" />
-       alt="snake" /></a>
-</div>
 
 <p align="center"> 
   <div align="center">Visitor count</div>
