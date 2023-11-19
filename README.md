@@ -4,7 +4,7 @@
   </ul>
 </div>
 <div align="center">
-  <img  src="https://github.com/EscamillaJuan/EscamillaJuan/blob/main/resources/img/grid-snake.svg"
+<img src="https://github.com/EscamillaJuan/EscamillaJuan/blob/main/snake.svg" alt="Snake Game" />
        alt="snake" /></a>
 </div>
 
