@@ -48,6 +48,6 @@
 <a href="https://www.linkedin.com/in/juan-pedro-escamilla-gonzalez-258044218?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVIo5cuidS3erOreniwpd6w%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/_juan_escamilla_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/87juann/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b](https://open.spotify.com/user/31orp3ba6emamrqxbpgtnktyxnwe" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="[https://open.spotify.com/user/0170agi99s5hh187g7mtz245b](https://open.spotify.com/user/31orp3ba6emamrqxbpgtnktyxnwe" target="_blank](https://open.spotify.com/user/31orp3ba6emamrqxbpgtnktyxnwe?si=6bf91d6249554544)"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 </div>
