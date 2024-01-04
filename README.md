@@ -15,27 +15,18 @@
 
 - 🔭 I’m currently working as Fullstack web developer
 - 🌱 I’m currently learning Mobile development
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on open source and embedded systems projects
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies that I know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies that I know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,discord,express,figma,github,html,java,js,linux,md,mongodb,sqlite,nodejs,postman,py,react,ts,vscode,latex,matlab&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,express,github,html,java,js,linux,md,mongodb,sqlite,nodejs,python,react,ts,vscode,latex,matlab,raspberrypi&perline=14" />
   </a>
-</p>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EscamillaJuan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EscamillaJuan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
 
 <div align="center">
