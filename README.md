@@ -13,8 +13,8 @@
 </p>
 
 
-- 🔭 I’m currently working as Fullstack web developer
-- 🌱 I’m currently learning Mobile development
+- 🔭 I’m currently working as Fullstack web developer, 
+- 🌱 learning Mobile development and
 - 👯 I’m looking to collaborate on open source and embedded systems projects
 
 <div id="user-content-toc">
@@ -25,7 +25,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,express,github,html,java,js,linux,md,mongodb,sqlite,nodejs,python,react,ts,vscode,latex,matlab,raspberrypi&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,express,github,html,java,js,linux,mongodb,sqlite,nodejs,python,react,ts,matlab,raspberrypi&perline=14" />
   </a>
 </p>
 
