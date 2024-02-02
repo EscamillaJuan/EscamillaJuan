@@ -33,7 +33,7 @@
 ---
 ### Contact me:
 
-<a href="https://www.linkedin.com/in/juan-pedro-escamilla-gonzalez-258044218?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVIo5cuidS3erOreniwpd6w%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/juan-escamilla-258044218?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDanlecCBQwml6DfZolxu4w%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
 
