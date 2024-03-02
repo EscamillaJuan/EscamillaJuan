@@ -12,9 +12,13 @@
   </div> 
 </p>
 
-🔭 I’m currently working as Fullstack web developer,  
-🌱 learning Mobile development and  
-👯 I’m looking to collaborate on open source and embedded systems projects
+``` javascript
+{
+  "currently": "I’m working as Fullstack web developer",
+  "meanTime": "learning Mobile development and",
+  "looking for": "to collaborate on open source and embedded systems projects"
+}
+```
 
 <div id="user-content-toc">
   <ul align="center">
