@@ -14,7 +14,7 @@
 
 ``` javascript
 {
-  "currently": "I’m working as Fullstack web developer",
+  "currently": "I’m working as software developer in cloud",
   "meanTime": "learning Mobile development and",
   "looking for": "to collaborate on open source and embedded systems projects"
 }
