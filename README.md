@@ -27,3 +27,5 @@ I’m a software developer with more than a year of experience, passionate about
 </p>
 
 ---
+
+![snake gif](https://github.com/EscamillaJuan/EscamillaJuan/blob/output/github-contribution-grid-snake.svg)
