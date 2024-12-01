@@ -28,4 +28,8 @@ I’m a software developer with more than a year of experience, passionate about
 
 ---
 
-![snake gif](https://github.com/EscamillaJuan/EscamillaJuan/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EscamillaJuan/EscamillaJuan/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EscamillaJuan/EscamillaJuan/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/EscamillaJuan/EscamillaJuan/blob/output/github-contribution-grid-snake.svg" />
+</picture>
