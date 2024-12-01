@@ -33,7 +33,7 @@ I’m a software developer with more than a year of experience, passionate about
 </div>
 
 --- 
-## 🐍 Contributions graph
+## 🐍 Contributions snake
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EscamillaJuan/EscamillaJuan/output/github-contribution-grid-snake.svg" />
 </div>
