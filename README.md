@@ -27,9 +27,13 @@ I’m a software developer with more than a year of experience, passionate about
 </p>
 
 ---
+## 🔥 **Stats**
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EscamillaJuan&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EscamillaJuan/EscamillaJuan/blob/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EscamillaJuan/EscamillaJuan/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/EscamillaJuan/EscamillaJuan/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+--- 
+## 🐍 Contributions graph
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EscamillaJuan/EscamillaJuan/output/github-contribution-grid-snake.svg" />
+</div>
