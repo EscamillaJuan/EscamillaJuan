@@ -19,7 +19,7 @@ I’m a software developer with more than a year of experience, passionate about
 
 
 ## 🛠️ **Technical Skills**  
-### **Languages & Frameworks**  
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,cpp,express,github,html,java,js,linux,mongodb,sqlite,nodejs,python,react,ts,raspberrypi,gcp,aws,spring&perline=14" />
