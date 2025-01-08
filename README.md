@@ -27,12 +27,13 @@ I’m a software developer with more than a year of experience, passionate about
 </p>
 
 ---
+<!--
 ## 🔥 **Stats**
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EscamillaJuan&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>  
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EscamillaJuan&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-
+-->
   
 </div>
 
