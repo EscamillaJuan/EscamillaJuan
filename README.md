@@ -8,7 +8,7 @@
 I’m a software developer with more than a year of experience, passionate about building scalable and efficient solutions. I specialize in backend development, cloud computing, and system design. Currently, I’m exploring mobile development.
 
 - 🎓 **Mechatronics Engineer**, which gives me a unique perspective on software and embedded systems.  
-- 🌱 In my free time, I’m **diving into mobile development** and **refining my cloud-native development skills**.  
+- 🌱 In my free time, I’m **diving into data engineering** and **refining my cloud-native development skills**.  
 - 🤝 Looking to collaborate on **embedded systems**, **resilient architectures**, and **open-source software**.  
 
 ---
