@@ -17,7 +17,7 @@ I’m a software developer with more than a year of experience, passionate about
 
 <a href="https://www.credly.com/badges/7c3dd577-32d6-4869-8dab-56233768cbee/public_url">Google Cloud Digital Leader</a>
 
-
+<!--
 ## 🛠️ **Technical Skills**  
 
 <p align="center">
@@ -25,7 +25,7 @@ I’m a software developer with more than a year of experience, passionate about
     <img src="https://skillicons.dev/icons?i=git,c,cpp,express,github,html,java,js,linux,mongodb,sqlite,nodejs,python,react,ts,raspberrypi,gcp,aws,spring&perline=14" />
   </a>
 </p>
-
+-->
 ---
 
 ## 🔥 **Stats**
